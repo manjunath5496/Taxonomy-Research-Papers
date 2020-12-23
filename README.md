@@ -68,7 +68,7 @@ Inducing Multilingual Taxonomies from Wikipedia</a></li>
   <li><a target="_blank" href="https://github.com/manjunath5496/Taxonomy-Research-Papers/blob/master/tax(34).pdf" style="text-decoration:none;">Hypernyms under Siege:
 Linguistically-motivated Artillery for Hypernymy Detection</a></li> 
  
-  <li><a target="_blank" href="https://github.com/manjunath5496/Taxonomy-Research-Papers/blob/master/tax(35).pdf" style="text-decoration:none;">Melody: A Distributed Music-Sharing System</a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Taxonomy-Research-Papers/blob/master/tax(35).pdf" style="text-decoration:none;">Blooms Taxonomy– Application in Exam Papers Assessment</a></li> 
 
   <li><a target="_blank" href="https://github.com/manjunath5496/Taxonomy-Research-Papers/blob/master/tax(36).pdf" style="text-decoration:none;">A Phrase Mining Framework for Recursive Construction of a Topical Hierarchy</a></li> 
  
@@ -125,6 +125,15 @@ LexNET - Integrated Path-based and Distributional Method for the Identification 
 
    <li><a target="_blank" href="https://github.com/manjunath5496/Taxonomy-Research-Papers/blob/master/tax(66).pdf" style="text-decoration:none;">NetTaxo: Automated Topic Taxonomy Construction from Text-Rich Network</a></li> 
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Taxonomy-Research-Papers/blob/master/tax(67).pdf" style="text-decoration:none;">A Family of Fuzzy Orthogonal Projection Models for Monolingual and Cross-lingual Hypernymy Prediction</a></li>                              
+   <li><a target="_blank" href="https://github.com/manjunath5496/Taxonomy-Research-Papers/blob/master/tax(67).pdf" style="text-decoration:none;">A Family of Fuzzy Orthogonal Projection Models for Monolingual and Cross-lingual Hypernymy Prediction</a></li>
+   
+<li><a target="_blank" href="https://github.com/manjunath5496/Taxonomy-Research-Papers/blob/master/tax(68).pdf" style="text-decoration:none;">The Web and the Structure of Taxonomy</a></li> 
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Taxonomy-Research-Papers/blob/master/tax(69).pdf" style="text-decoration:none;">Plant Nomenclature and Taxonomy:
+An Horticultural and Agronomic Perspective</a></li>
+     
+   
+   
+   
 
   </ul>
